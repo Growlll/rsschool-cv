@@ -17,4 +17,6 @@ function multiplyAll(arr) {
 }
 ```
 * __Experience:__ Freelance, I train web developers at Glo Academy
+    * __Projects:__ [CPS](https://growlll.github.io/PROJECT-NAME/)
+    * __Projects:__ [Drum-kit](https://growlll.github.io/drum-kit/)
 * __English:__ Pre- Intermediate(A2)
